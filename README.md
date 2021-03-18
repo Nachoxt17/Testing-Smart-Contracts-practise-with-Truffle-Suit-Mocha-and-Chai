@@ -1,1 +1,1 @@
-# Testing-Smart-Contracts-practise-with-Truffle-Suit-Mocha-and-Chai
+# Testing-Smart-Contracts-practise-with-Truffle-Suite-Mocha-and-Chai
