@@ -1,0 +1,29 @@
+{
+  "name": "testing-smart-contracts-practise-with-truffle-suite-mocha-and-chai",
+  "version": "1.0.0",
+  "description": "Testing Smart Contracts Practise with Mocha and Chai",
+  "main": "math.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nachoxt17/Testing-Smart-Contracts-practise-with-Truffle-Suite-Mocha-and-Chai.git"
+  },
+  "keywords": [],
+  "author": "ignacioceaglio@protonmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nachoxt17/Testing-Smart-Contracts-practise-with-Truffle-Suite-Mocha-and-Chai/issues"
+  },
+  "homepage": "https://github.com/Nachoxt17/Testing-Smart-Contracts-practise-with-Truffle-Suite-Mocha-and-Chai#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "prettier": "^2.2.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.2"
+  }
+}
